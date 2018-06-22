@@ -14,9 +14,5 @@
     "eject": "react-scripts eject",
     "deploy": "npm run build&&gh-pages -d build"
   },
-  "devDependencies": {
-  "gh-pages": "^1.0.0",
-  "react-scripts": "1.0.5"
-  },
   "homepage": "https://lovelymh.github.io/test3"
 }
